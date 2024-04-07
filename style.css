@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgba(159, 198, 255, 0.5);
+}
+
+.leetcode1 {
+    text-align: center;
+    margin-left: 400px;
+}
+
+.leetcode {
+    width: 400px;
+    margin: 100px;
+    padding: 30px;
+    border: 0;
+    background-color: white;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.leetcode .logo {
+    padding: 30px;
+}
+
+.main input {
+    margin: 10px;
+    padding: 10px 53px;
+    border: 2px solid lightgrey;
+    border-radius: 3px;
+    outline: 0;
+}
+
+.main input:active {
+    background-color: rgb(174, 216, 249);
+}
+
+small {
+    color: grey;
+}
+
+button {
+    margin: 10px;
+    padding: 10px 120px;
+    background: #455a64;
+    border: 0;
+    border-radius: 5px;
+    color: white;
+}
+
+button:hover {
+    background-color: grey;
+}
+
+.formBottom {
+    display: flex;
+    padding: 10px;
+    justify-content: space-evenly;
+    color: grey;
+}
+
+.b-end {
+    padding: 20px;
+    color: #b0afaf;
+}
+
+.socail1 {
+    padding: 5px;
+    size: 20px;
+}
+
+.bi-google:hover {
+    color: rgb(178, 24, 24);
+}
+
+.bi-facebook:hover {
+    color: blue;
+}
+
+.bi-github:hover {
+    color: black;
+}
